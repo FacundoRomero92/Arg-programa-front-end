@@ -1,0 +1,13 @@
+div.a{
+    width: 650px;
+}
+span {
+    color: blue;
+}
+img{
+    opacity: 70%;
+}
+body{
+    background-image: url(media/images/blood.jpg);
+    background-repeat: no-repeat;
+}
